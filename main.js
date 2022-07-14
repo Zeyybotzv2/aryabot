@@ -131,7 +131,7 @@ async function connectionUpdate(update) {
   }
   if (global.db.data == null) await loadDatabase()
   console.log(JSON.stringify(update, null, 4))
-  if (update.receivedPendingNotifications) conn.sendMessage(`6289509960601@s.whatsapp.net`, {text: 'BERHASIL Terhubung\nGunakan BOT Dengan Bijak 😉' })
+  if (update.receivedPendingNotifications) conn.sendMessage(`6285244344615@s.whatsapp.net`, {text: 'BERHASIL Terhubung\nGunakan BOT Dengan Bijak 😉' })
 }
 
 
