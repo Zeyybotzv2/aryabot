@@ -36,7 +36,7 @@ const defaultMenu = {
   body: '',
   footer: '',
   after: `
-*%npmname@^%version*
+*ZeyyBotz@^%version*
 ${'```%npmdesc```'}
 `,
 }
@@ -174,7 +174,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: 'https://wa.me/6289509960601'
+               PhoneNumber: 'https://wa.me/6285244344615'
              }
 
            },
